@@ -75,12 +75,12 @@ During my Java internship at SURETrust, I strengthened my core understanding of 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: Banking Microservices – Capstone Project</h3>
+<h3 id="project1">Project : Banking Microservices – Capstone Project</h3>
 <p>
   Designed and implemented a Banking Application using Microservices architecture with Spring Boot. The system includes services such as account management, transactions, and customer operations. This capstone project strengthened my understanding of scalable system design, inter-service communication, and enterprise-level backend development.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/KHUSHI-KUMARI-g19-java/blob/d0d5a300268a6df1e162a1b3717e681e4bedea8a/Course%20report/SURE%20Trust%20project%20document1e.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/khushi-kumari112/banking-microservices/blob/ef861a6d4cdd5462ce0e60f85f023f0e37573291/SURE%20Trust%20project%20document1e.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
