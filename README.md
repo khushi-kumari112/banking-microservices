@@ -171,7 +171,7 @@ During my internship period, I actively participated in community-oriented activ
 <div align="center">
   <img src="https://github.com/khushi-kumari112/banking-microservices/blob/main/asserts/blood%20donation.jpeg" alt="Community Service Photo 1" width="300px">
   <img src="https://github.com/khushi-kumari112/banking-microservices/blob/main/asserts/donation.jpeg" alt="Community Service Photo 2" width="300px">
-  <img src="https://github.com/khushi-kumari112/banking-microservices/blob/main/asserts/plantation.jpeg1" alt="Community Service Photo 3" width="300px">
+  <img src="https://github.com/khushi-kumari112/banking-microservices/blob/main/asserts/plantation.jpeg" alt="Community Service Photo 3" width="300px">
 </div>
 
 
