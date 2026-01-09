@@ -29,7 +29,7 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> Java Core </p>
+    <p><strong>Course Opted:</strong> Java Applications </p>
     <p><strong>Instructor Name:</strong> Alur Mohammed Yaseer </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
