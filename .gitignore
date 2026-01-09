@@ -1,0 +1,19 @@
+# Maven build files
+target/
+
+# Log files
+logs/
+*.log
+*.gz
+
+# Original JAR files
+*.jar.original
+
+# IDE files
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
